@@ -38,7 +38,7 @@
 </div>
 
 
-
+<h2>⌨️ Recent Commits</h2>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omateocortez/omateocortez/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omateocortez/omateocortez/output/github-contribution-grid-snake-dark.svg">
