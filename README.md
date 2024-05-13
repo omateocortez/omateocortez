@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on a project for my college, developinga a game called PyMemory for disabled children
-- 🌱 I’m currently learning OOP, Programming Logic, Relational Database and OOM with Astah UML
+- 🌱 Learning OOP, Programming Logic, Relational Database and OOM with Astah UML
 - 💻 Studying for a bachelor's degree in Computer Scienceon on Mauá Institute of Technology
 - 📫 How to reach me: mateovcortez@gmail.com
 
