@@ -19,7 +19,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=omateocortez&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
 </a>
 <a href="https://github.com/omateocortez/convoychat">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omateocortez&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8&card_width=1" />
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omateocortez&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8&card_width=1" />
 </a>
 
 
