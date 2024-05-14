@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on a project for my college, developinga a game called PyMemory for disabled children
 - 🌱 Learning OOP, Programming Logic, Relational Database and OOM with Astah UML
 - 💻 Studying for a bachelor's degree in Computer Scienceon on Mauá Institute of Technology
+- 👨🏻‍💻 Scrum Master for the project "Internal Portal" of the college entity Dev Community Mauá 
 - 📫 How to reach me: mateovcortez@gmail.com
 
 
