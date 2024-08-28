@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on a Web Site! 
-- 🌱 Learning Front-End Development, Statistics, Computational Math en Law&Ethic on IT
+- 🌱 Learning Front-End Development, Statistics, Computational Math, Law&Ethic on IT and UX/UI
 - 💻 Studying for a bachelor's degree in Computer Science on Mauá Institute of Technology
 - 🔑 Scrum Master for the project "Portal Interno" of the college entity DevCommunity Mauá, since March 2024
 - 📫 How to reach me: mateovcortez@gmail.com
