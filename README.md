@@ -3,10 +3,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omateocortez&color=red" alt="Profile views" /> </p>
 
 
-- 🔭 I’m currently working on a project for my college, developing a game called PyMemory for disabled children
-- 🌱 Learning OOP with Java, Programming Logic in Python, Relational Database on MySQL and OOM with Astah UML
+- 🔭 I’m currently working on a Web Site! 
+- 🌱 Learning Front-End Development, Statistics, Computational Math en Law&Ethic on IT
 - 💻 Studying for a bachelor's degree in Computer Science on Mauá Institute of Technology
-- 🔑 Scrum Master for the project "Internal Portal" of the college entity DevCommunity Mauá 
+- 🔑 Scrum Master for the project "Portal Interno" of the college entity DevCommunity Mauá, since March 2024
 - 📫 How to reach me: mateovcortez@gmail.com
 
 
