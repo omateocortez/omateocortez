@@ -10,9 +10,9 @@
 - 📫 Reach me: mateovcortez@gmail.com
 
 
-<!--
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omateocortez&show_icons=true&theme=radical&hide_border=truebg_color=0D1117)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omateocortez&show_icons=true&theme=radical&card_width=200px&card_heigth=1800px)](https://github.com/omateocortez/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omateocortez&show_icons=true&theme=radical&card_width=200px&card_heigth=1800px)](https://github.com/omateocortez/github-readme-stats)
 
 
 <a href="https://github.com/omateocortez/github-readme-stats">
