@@ -3,11 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omateocortez&color=red" alt="Profile views" /> </p>
 
 
-- 🔭 I’m currently working on a Web Site! 
-- 🌱 Learning Front-End Development, Statistics, Computational Math, Law&Ethic on IT and UX/UI
+- 🔭 I'm currently working on an **online portfolio** for a director of cinematography and teaching _Front-End Development_ at a school!
+- 🌱 Learning Algorithms and Data Structures, Programming Paradigms, Physics for Computing, Calculus for Computing, and Agile Development.
 - 💻 Studying for a bachelor's degree in Computer Science on Mauá Institute of Technology
-- 🔑 Scrum Master for the project "Portal Interno" of the college entity DevCommunity Mauá, since March 2024
-- 📫 How to reach me: mateovcortez@gmail.com
+- 🔑 Scrum Master at _Dev Community Mauá_ academic organization since March 2024
+- 📫 Reach me: mateovcortez@gmail.com
 
 
 <!--
