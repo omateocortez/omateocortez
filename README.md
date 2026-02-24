@@ -10,20 +10,6 @@
 - 📫 Reach me: mateovcortez@gmail.com
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omateocortez&show_icons=true&theme=radical&hide_border=truebg_color=0D1117)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omateocortez&show_icons=true&theme=radical&card_width=200px&card_heigth=1800px)](https://github.com/omateocortez/github-readme-stats)
-
-
-<a href="https://github.com/omateocortez/github-readme-stats">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=omateocortez&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&card_width=1" />
-</a>
-<a href="https://github.com/omateocortez/convoychat">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omateocortez&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8&card_width=1" />
-</a>
-
-
-
 <h2>🛠️ Dev Stack</h2>
 <div style="display: inline_block"><br>
 <img align="center" alt="mateo-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
